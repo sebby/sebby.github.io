@@ -6,7 +6,7 @@ Je suis **Lead Developeur Drupal**
 
 - 🔭 Je travaille actuellement sur **moi**
 - 🌱 J'apprends en ce moment **IA :-P**
-- 👯 ~~Je cherche à collaborer~~ Je vais un break de plusieurs mois
+- 👯 ~~Je cherche à collaborer~~ Je fais un break de plusieurs mois
 - 💬 Demandez-moi à propos de **Drupal, Neovim, OpenCode, Design patterns, Solid Principles**
 - 📫 Comment me contacter : ~~**[votre.email@example.com]**~~
 
@@ -17,43 +17,25 @@ Je suis **Lead Developeur Drupal**
 ### Langages de programmation
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP]
-![LUA]
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)](https://www.lua.org)
 
 ### Frameworks & Librairies
-![Drupal]
-![NextJs]
+[![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=white)](https://www.drupal.org)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-### Bases de données
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
 ### Outils & Plateformes
-![ELK]
+[![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?logo=elasticstack&logoColor=white)](https://www.elastic.co/elastic-stack/)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![DDEV]
+[![DDEV](https://img.shields.io/badge/DDEV-02A89E?logo=docker&logoColor=white)](https://ddev.com)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebby&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebby&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sebby&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
